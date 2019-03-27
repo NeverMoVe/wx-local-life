@@ -1,0 +1,15 @@
+/* pages/home/home.wxss */
+@import "../../templates/list.wxss";
+.sildes{
+  width: 750rpx;
+}
+.sildes image{
+  width: 100%;
+}
+.ninelist{
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+  align-items: center;
+  box-sizing: border-box;
+}

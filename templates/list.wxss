@@ -1,0 +1,13 @@
+.listOne{
+    width: 250rpx;
+    height:250rpx;
+    border: 1px solid red;
+    text-align: center;
+    box-sizing: border-box;
+    padding: 20rpx;
+}
+
+.listOne image{
+    width: 80%;
+    height:80%;
+} 

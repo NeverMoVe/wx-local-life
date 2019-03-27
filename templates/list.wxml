@@ -1,0 +1,8 @@
+<template name='list'>
+    <view class="listOne">
+            <image src='{{icon}}' />
+        <view>
+            <text>{{name}}</text>
+        </view>
+    </view>
+</template>
